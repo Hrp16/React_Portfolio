@@ -1,8 +1,10 @@
 import React from "react";
 
-const Main=()=>{
+const Main=()=>{ 
     return (
-        <h1>harsh</h1>
-    )
+        <head>
+            <h1>Hello, world!</h1>
+        </head>
+    );
 };
 export default Main;
